@@ -1,2 +1,2 @@
-# Star-pattern-Making-Triangle
+# Star-pattern-Making-many-Programs
 in this program we will print stars(*) and all stars print like as the triangle so lets get started...
